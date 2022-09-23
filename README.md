@@ -1,4 +1,10 @@
 # Recipe-Blog
+
+This blog contains various categories of food recipies.
+New users can upload there recipies on thus site and can search if they want any.
+The MongoDb has been used as a database .
+
+
 ![Screenshot from 2022-09-23 00-17-04](https://user-images.githubusercontent.com/82999574/191903042-905eef8e-64dc-4f1b-aba6-ca834c08afc2.png)
 ![Screenshot from 2022-09-23 00-17-11](https://user-images.githubusercontent.com/82999574/191903049-5f71fe02-c3e1-4af3-b296-619f8922eab6.png)
 ![Screenshot from 2022-09-23 00-17-24](https://user-images.githubusercontent.com/82999574/191903057-cdff6d44-dd96-4264-81ab-f11fed042c17.png)
